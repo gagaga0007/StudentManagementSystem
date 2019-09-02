@@ -384,7 +384,7 @@ public class StudentDAO {
 	public static void getConnection() throws ClassNotFoundException, SQLException {
 		if (conn == null) {
 			Class.forName("com.mysql.jdbc.Driver");
-			conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test", "root", "142758");
+			conn = DriverManager.getConnection("jdbc:mysql://******:3306/test", "root", "******");
 		}
 	}
 }
