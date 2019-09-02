@@ -1,7 +1,7 @@
 package main;
 
 /**
- * @author 第十二组-成绩管理系统。组长：王一宸；组员：王春鸿、陈罗林。
+ * @author 第十二组-成绩管理系统。
  */
 // 数据库设计：1、user表（管理员表）2、visitor_user表（普通用户表）
 // 3、student表（学生信息表）4、student_score表（学生成绩表）
